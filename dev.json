@@ -1,0 +1,152 @@
+[
+    {
+        "Devname": "atomikstippyjs",
+        "Username": "",
+        "reponame": "tippyjs",
+        "description": "Tooltip, popover, dropdown, and menu library"
+    },
+    {
+        "Devname": "Lee Bousfieldphash-image",
+        "Username": "PlasmaPower",
+        "reponame": "phash-image",
+        "description": "phash for images"
+    },
+    {
+        "Devname": "Adhiraj SinghBaileys",
+        "Username": "adiwajshing",
+        "reponame": "Baileys",
+        "description": "Lightweight full-featured WhatsApp Web + Multi-Device API"
+    },
+    {
+        "Devname": "Zoltan Kochanpackages",
+        "Username": "zkochan",
+        "reponame": "packages",
+        "description": "Zoltan Kochan's npm packages"
+    },
+    {
+        "Devname": "Szymon Nowaksharedrop",
+        "Username": "szimek",
+        "reponame": "sharedrop",
+        "description": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop"
+    },
+    {
+        "Devname": "Florian RivalGDevelop",
+        "Username": "4ian",
+        "reponame": "GDevelop",
+        "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone."
+    },
+    {
+        "Devname": "Pavan Soraturcryptoboys-nft-marketplace",
+        "Username": "devpavan04",
+        "reponame": "cryptoboys-nft-marketplace",
+        "description": "An NFT marketplace where users can mint ERC721 implemented Crypto Boy NFTs."
+    },
+    {
+        "Devname": "Brandon Jonesgl-matrix",
+        "Username": "toji",
+        "reponame": "gl-matrix",
+        "description": "Javascript Matrix and Vector library for High Performance WebGL apps"
+    },
+    {
+        "Devname": "Coppledoctest-js",
+        "Username": "kiwicopple",
+        "reponame": "doctest-js",
+        "description": "Run JSDoc style doc examples as tests within your test suite"
+    },
+    {
+        "Devname": "Guy Bedfordes-module-lexer",
+        "Username": "guybedford",
+        "reponame": "es-module-lexer",
+        "description": "Low-overhead lexer dedicated to ES module parsing for fast analysis"
+    },
+    {
+        "Devname": "Asif Saif Uddincelery-flower",
+        "Username": "auvipy",
+        "reponame": "celery-flower",
+        "description": "Under heavy development now: Real time Celery monitoring with ASGI 3.0+ django 3.2"
+    },
+    {
+        "Devname": "Alex Potsidesnative-fetch",
+        "Username": "achingbrain",
+        "reponame": "native-fetch",
+        "description": "Returns native fetch if available or the node-fetch module if not"
+    },
+    {
+        "Devname": "Mentor Palokajbattery",
+        "Username": "actuallymentor",
+        "reponame": "battery",
+        "description": "CLI for managing the battery charging status for M1 Macs"
+    },
+    {
+        "Devname": "berstend̡̲̫̹̠̖͚͓̔̄̓̐̄͛̀͘puppeteer-extra",
+        "Username": "berstend",
+        "reponame": "puppeteer-extra",
+        "description": "💯 Teach puppeteer new tricks through plugins."
+    },
+    {
+        "Devname": "Adam Bardlearnxinyminutes-docs",
+        "Username": "adambard",
+        "reponame": "learnxinyminutes-docs",
+        "description": "Code documentation written as code! How novel and totally my idea!"
+    },
+    {
+        "Devname": "Bret Fisherudemy-docker-mastery",
+        "Username": "BretFisher",
+        "reponame": "udemy-docker-mastery",
+        "description": "Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud"
+    },
+    {
+        "Devname": "Jeroen Oomsimwidgets",
+        "Username": "jeroen",
+        "reponame": "imwidgets",
+        "description": "HTML widgets for viewing images"
+    },
+    {
+        "Devname": "Michał Sajnógaos",
+        "Username": "michalsnik",
+        "reponame": "aos",
+        "description": "Animate on scroll library"
+    },
+    {
+        "Devname": "Dotan J. Nahumawesome-react-native",
+        "Username": "jondot",
+        "reponame": "awesome-react-native",
+        "description": "Awesome React Native components, news, tools, and learning material!"
+    },
+    {
+        "Devname": "hamza ziawebui-aria2",
+        "Username": "ziahamza",
+        "reponame": "webui-aria2",
+        "description": "The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and…"
+    },
+    {
+        "Devname": "Sonny PiersJunction",
+        "Username": "sonnyp",
+        "reponame": "Junction",
+        "description": "Application/browser chooser"
+    },
+    {
+        "Devname": "Rich Harrisdegit",
+        "Username": "Rich-Harris",
+        "reponame": "degit",
+        "description": "Straightforward project scaffolding"
+    },
+    {
+        "Devname": "Diego Muracciolereact-pdf",
+        "Username": "diegomura",
+        "reponame": "react-pdf",
+        "description": "📄 Create PDF files using React"
+    },
+    {
+        "Devname": "@grewebreact-native-view-shot",
+        "Username": "gre",
+        "reponame": "react-native-view-shot",
+        "description": "Snapshot a React Native view and save it to an image"
+    },
+    {
+        "Devname": "年糕小豆汤markdown-preview.nvim",
+        "Username": "iamcco",
+        "reponame": "markdown-preview.nvim",
+        "description": "markdown preview plugin for (neo)vim"
+    }
+]
